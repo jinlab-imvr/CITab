@@ -1,6 +1,6 @@
 <div align="center">
 
-# Unleashing the Power of Image-tabular Self-supervised Learning via Breaking Cross-tabular Barriers (AAAI 2026)
+# [AAAI 2026] Unleashing the Power of Image-tabular Self-supervised Learning via Breaking Cross-tabular Barriers
 
 **Yibing Fu¹, Yunpeng Zhao¹, Zhitao Zeng¹, Cheng Chen², Yueming Jin¹**
 
